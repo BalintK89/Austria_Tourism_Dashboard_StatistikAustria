@@ -7,7 +7,6 @@ An interactive Power BI dashboard analyzing tourist arrivals (*Ankünfte*) and o
 ## 📸 Dashboard Overview
 
 <!--  IMAGES HERE  -->
-<img width="2550" height="1243" alt="1" src="https://github.com/user-attachments/assets/bdba4a31-0f11-473e-8c1a-5f896c9a996a" />
 <img width="2527" height="1215" alt="2" src="https://github.com/user-attachments/assets/fe94f5ec-4cef-4195-a0fe-28041b32147d" />
 <img width="2527" height="1215" alt="3" src="https://github.com/user-attachments/assets/a5a58963-4033-45fb-ae50-0967d3496cfc" />
 
